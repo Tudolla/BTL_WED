@@ -1,7 +1,13 @@
+1.Các chức năng có trong hệ thống :
+-Đăng kí , đăng nhập 
+-Đặt phòng cho khách 
+-Xóa phòng cho khách
+
+Chức năng quản trị hệ thống : 
+Xem danh sách User , thêm user , xóa user
 
 
-
-Công việc các thành viên:
+2.Công việc các thành viên:
 Long: Code giao diện và hoàn thành cấu hình project - có sử dụng template và tự chỉnh sửa lại
 Tuấn: Sử dụng các mapping URL trong spring để ánh xạ xác đường dẫn (@RequestMapping, @GetMapping, @PostMapping)
       Truy vấn dữ liệu gửi lên tầng giao diện và cập nhật dữ liệu trong database
